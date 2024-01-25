@@ -38,16 +38,6 @@ The Mancala Game program involves adding a graphical user interface to the Manca
     - The graphical user interface should pop up prompting the user to enter player names
 
 
-## Limitations
-
-This program is completed with full functionalities. 
-
-## Author Information
-
-Esha Reddy Peddy Reddy
-Student ID: 1231899
-UofG email: epeddyre@uoguelph.ca
-
 ## Development History
 
 * 0.3
@@ -58,11 +48,6 @@ UofG email: epeddyre@uoguelph.ca
     * Initial push to repository 
 
 
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [simple-readme] (https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md)
 
 
 
